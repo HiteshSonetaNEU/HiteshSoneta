@@ -1,0 +1,59 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png"
+  },
+  
+  {
+    "title": "Javascript",
+    "imageSrc": "js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "graphql.png"
+  },
+  
+  
+{
+  
+  "title": "Nest.js",
+  "imageSrc": "nest.png"
+},
+{
+  
+  "title": "Jenkins",
+  "imageSrc": "jenkins.png"
+},
+{
+  
+  "title": "Python",
+  "imageSrc": "python.jpeg"
+},
+{
+  
+  "title": "MySQL",
+  "imageSrc": "mysql.png"
+},
+{
+  "title": "MongoDB",
+  "imageSrc": "mongodb.png"
+},
+{
+  
+  "title": "Power BI",
+  "imageSrc": "power.png"
+}
+
+]

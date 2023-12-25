@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Consumer Behavior Analytics using Machine Learning Algorithms",
+    "imageSrc": "project.png",
+    "description": "Leveraging user-generated content, such as reviews and ratings, offers enterprises valuable insights into consumer preferences and predictive behaviors",
+    "skills": ["Django", "ML Algorithms", "Javascript"],
+    "paper":"https://ieeexplore.ieee.org/document/9198562"
+
+  },
+  {
+    "title": "reSSSipes",
+    "imageSrc": "reSSSipes.png",
+    "description": "A recipe-sharing platform, where chefs worldwide converge to share their creations. Platform serves as a dynamic space for culinary enthusiasts and professionals alike. From international delicacies to homegrown favorites, our community is a melting pot of flavors, fostering connections between chefs and their followers.",
+    "skills": ["React", "Express", "Node", "Mongodb"]
+  }
+]

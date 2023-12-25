@@ -1,0 +1,35 @@
+[
+  {
+    "role": "SE-1",
+    "organisation": "MAQ Software",
+    "startDate": "June, 2022",
+    "endDate": "August, 2023",
+    "experiences": ["Successfully utilized Power BI to extract, transform, and visualize data for informed decision-making.",
+     "Developed comprehensive reports with interactive visuals and multipage dashboards to enhance data-driven insights.",
+    "Proficient in writing complex SQL queries to extract valuable information from large datasets.",
+  "Played a pivotal role in the development of a React-based web application, actively participating in its design and implementation."],
+    "imageSrc": "MAQ.png"
+  },
+  {
+    "role": "Implementation Engineer",
+    "organisation": "Aviso",
+    "startDate": "June, 2021",
+    "endDate": "June, 2022",
+    "experiences": ["Tailored software applications to align with individual client needs and specifications, ensuring a personalized and efficient user experience.",
+     "Successfully onboarded new clients by streamlining the integration process, ensuring a smooth transition to our services, and providing comprehensive training and support.",
+    "Proactively addressed and resolved client issues and challenges, serving as a dedicated point of contact for swift problem resolution and client satisfaction"],
+    "imageSrc": "aviso.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Code-B",
+    "startDate": "October, 2020",
+    "endDate": "Jun, 2021",
+    "experiences": [
+      "Conceptualized, designed, and executed full-cycle software applications for websites, aligning closely with meticulously analyzed requirements and industry-leading technical standards.",
+      "Contributed to the creation of a mobile app using React Native, demonstrating a deep understanding of cross-platform development and user-friendly interfaces",
+      "Spearheaded the development of backend projects utilizing Nest.js, leveraging its capabilities for efficient and scalable server-side solutions.",
+    "Seamlessly integrated AWS Lambda functions to enhance application performance, scalability, and cost-effectiveness, optimizing resource utilization"],
+    "imageSrc": "code-b.png"
+  }
+]
