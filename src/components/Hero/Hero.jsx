@@ -13,9 +13,6 @@ export const Hero = () => {
         <p className={styles.description}>
           Currently Pursuing MS Software Engineering Systems at Northeastern University, Seeking Co-op for summer 2024
         </p>
-        <a href="mailto:sonetah@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
       
       <div className={styles.topBlur} />
