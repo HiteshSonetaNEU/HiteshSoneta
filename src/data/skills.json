@@ -1,8 +1,9 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "html.png"
-  },
+    "imageSrc": "IoLogoHtml5"
+  }
+  ,
   {
     "title": "CSS",
     "imageSrc": "css.png"

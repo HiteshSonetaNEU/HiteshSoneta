@@ -1,6 +1,7 @@
 import React, { useState,useEffect } from "react";
 import r from "../Navbar/Resume.pdf"
-
+import c from "../../images/Navbar/closeIcon.png"
+import m from "../../images/Navbar/menuIcon.png"
 import styles from "./Navbar.module.css";
 
 import { saveAs } from 'file-saver';
@@ -41,8 +42,8 @@ export const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? "closeIcon.png"
-              : "menuIcon.png"
+              ? c
+              : m
           }
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}

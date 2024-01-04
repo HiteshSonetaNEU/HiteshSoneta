@@ -2,6 +2,8 @@ import React from "react";
 
 import styles from "./About.module.css";
 
+import c from "../../images/About/cursorIcon.png"
+import s from "../../images/About/serverIcon.png"
 
 
 
@@ -13,7 +15,7 @@ export const About = () => {
         
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={"cursorIcon.png"} alt="Cursor icon" />
+            <img src={c} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -22,7 +24,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={"serverIcon.png"} alt="Server icon" />
+            <img src={s} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -30,7 +32,7 @@ export const About = () => {
               </p>
             </div>
           </li><li className={styles.aboutItem}>
-            <img src={"cursorIcon.png"} alt="UI icon" />
+            <img src={c} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>Android Developer</h3>
               <p>
@@ -39,7 +41,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={"cursorIcon.png"} alt="UI icon" />
+            <img src={c} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>Power BI Developer</h3>
               <p>
