@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HiteshSoneta/static/css/main.9501f546.css",
-    "main.js": "/HiteshSoneta/static/js/main.6e6e1797.js",
+    "main.css": "/HiteshSoneta/static/css/main.e8ab1e9e.css",
+    "main.js": "/HiteshSoneta/static/js/main.fb41d3da.js",
     "static/media/Resume.pdf": "/HiteshSoneta/static/media/Resume.7a90a3b375592de1583b.pdf",
     "static/media/outfit-latin-400-normal.woff": "/HiteshSoneta/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/roboto-latin-400-normal.woff2": "/HiteshSoneta/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -22,11 +22,11 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/HiteshSoneta/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/HiteshSoneta/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/HiteshSoneta/index.html",
-    "main.9501f546.css.map": "/HiteshSoneta/static/css/main.9501f546.css.map",
-    "main.6e6e1797.js.map": "/HiteshSoneta/static/js/main.6e6e1797.js.map"
+    "main.e8ab1e9e.css.map": "/HiteshSoneta/static/css/main.e8ab1e9e.css.map",
+    "main.fb41d3da.js.map": "/HiteshSoneta/static/js/main.fb41d3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.9501f546.css",
-    "static/js/main.6e6e1797.js"
+    "static/css/main.e8ab1e9e.css",
+    "static/js/main.fb41d3da.js"
   ]
 }
